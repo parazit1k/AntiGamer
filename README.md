@@ -1,2 +1,0 @@
-# AntiGamer
-Discord bot
